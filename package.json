@@ -28,7 +28,7 @@
     "url": "https://github.com/ricardobeat/taks/issues"
   },
   "homepage": "https://github.com/ricardobeat/taks#readme",
-  "dependencies": {
+  "devDependencies": {
     "ava": "^0.25.0",
     "eslint": "^4.19.0",
     "eslint-config-standard": "^11.0.0",
